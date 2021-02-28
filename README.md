@@ -1,2 +1,2 @@
 To run on startup
-@reboot ~/Documents/c-tehtavat/task4/screen
+@reboot sleep 20 && ~/Documents/c-tehtavat/task4/screen
